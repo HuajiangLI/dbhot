@@ -1,0 +1,30 @@
+[33mcommit 2a51b458928f7cf771814b84c1f7dabba4612ac8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 367ee35 d87630b
+Author: huajiang <huajiang@email.cn>
+Date:   Fri Sep 8 17:20:31 2023 +0800
+
+    合并冲突
+
+[33mcommit 367ee35211e43ad80c63b64edb3f6bd624d3c26c[m
+Author: huajiang <huajiang@email.cn>
+Date:   Fri Sep 8 17:13:53 2023 +0800
+
+    version-4
+
+[33mcommit d87630ba10e46911d147c773b389722790e3eb79[m[33m ([m[1;32mdev[m[33m)[m
+Author: huajiang <huajiang@email.cn>
+Date:   Fri Sep 8 17:09:27 2023 +0800
+
+    version-3
+
+[33mcommit 66c24b13b1005f095f3ca896eb32c1585109cf5b[m
+Author: huajiang <huajiang@email.cn>
+Date:   Fri Sep 8 12:08:16 2023 +0800
+
+    version-2
+
+[33mcommit b73bc6718585be6c809c019fcee00776433d9ebf[m
+Author: huajiang <huajiang@email.cn>
+Date:   Fri Sep 8 11:21:13 2023 +0800
+
+    add file1
